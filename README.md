@@ -1,0 +1,1 @@
+# internship2024_evacuationmap_vanillajs
