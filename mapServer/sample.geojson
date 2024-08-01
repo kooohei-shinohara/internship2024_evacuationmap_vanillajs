@@ -1,0 +1,25 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "避難場所1"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [139.691706, 35.689487]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "避難場所2"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [139.702042, 35.662274]
+        }
+      }
+    ]
+  }
